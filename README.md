@@ -1,3 +1,1 @@
-# MNISTClassification
-
 Handwritten Digits Recognition
