@@ -1,3 +1,3 @@
 # MNISTClassification
 
-Image Classification
+Handwritten Digits Recognition
